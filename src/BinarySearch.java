@@ -6,7 +6,7 @@ public class BinarySearch {
         System.out.println(ans);
     }
 
-    static int BinarySearch(int[] arr, int target) {
+    static int BinarySearchi(int[] arr, int target) {
         int start = 0;
         int end = arr.length - 1;
         while (start <= end) {

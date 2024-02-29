@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d753604-ce2e-49bc-bc81-d330a18daa61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BInarySearch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CeilingOfaNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstandLastPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Floorofthenumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7d753604-ce2e-49bc-bc81-d330a18daa61" name="Changes" comment="Binary" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,7 +46,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/OneDrive/Desktop/Have Fun/BInarySearch"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -122,7 +117,52 @@
       <option name="presentableId" value="Default" />
       <updated>1708013704133</updated>
     </task>
+    <task id="LOCAL-00001" summary="Binary">
+      <option name="closed" value="true" />
+      <created>1709226641907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709226641907</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Binary">
+      <option name="closed" value="true" />
+      <created>1709226678018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709226678018</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Binary">
+      <option name="closed" value="true" />
+      <created>1709226880122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709226880122</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Binary">
+      <option name="closed" value="true" />
+      <created>1709226942435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709226942435</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Binary">
+      <option name="closed" value="true" />
+      <created>1709226953136</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709226953136</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Binary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
